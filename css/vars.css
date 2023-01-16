@@ -1,0 +1,7 @@
+:root {
+   --font-size-main: 20px;
+   --font-color: #FFF;
+   /* --backgr-main: linear-gradient(#768192, #426374); */
+   --width-container: 1170px;
+   --line-height: 1.15;
+}
