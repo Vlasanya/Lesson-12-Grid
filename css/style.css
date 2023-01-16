@@ -55,7 +55,7 @@ body {
 .section__card:hover {
     justify-content: space-between;
     flex-direction: column;
-    cursor: url(./assets/pic/cursor.svg), auto;
+    cursor: url(../assets/pic/cursor.svg), auto;
     
     
 }
