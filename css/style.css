@@ -73,12 +73,13 @@ body {
 .icons__item {
     width: 40px;
     height: 40px;
+    color: #4F4F4F;
     background: #E0E0E0;
     opacity: 50%;
     border-radius: 8px;
     padding: 10px;
 }
-/* .icons__item img {
+/* .icons__item i {
     margin: 0 auto;
 } */
 .icons__item:hover {
